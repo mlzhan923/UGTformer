@@ -29,7 +29,7 @@ We provide the dataset structure in the `dataset/` directory, which includes:
 
 ### Pretraining
 
-The pretrained model weights are available in `finetune/pretrained_model.pth`. These weights were obtained through self-supervised pretraining on the ZINC15 compound library, which significantly enhances the model's predictive performance.
+The pretrained model weights are available in `finetune/pretrained_model.pth`. The pretraining data can be downloaded from the [MGSSL repository](https://github.com/zaixizhang/MGSSL/tree/main/motif_based_pretrain/data/zinc).
 
 If you want to reproduce the pretraining process, use the following command:
 
