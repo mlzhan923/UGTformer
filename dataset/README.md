@@ -1,0 +1,2 @@
+- `train/`: Training dataset used for model fitting.
+- `val_external/`: External validation dataset used for evaluation only.
